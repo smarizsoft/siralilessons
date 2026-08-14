@@ -1,0 +1,6 @@
+{
+  "name": "Sir Ali's Science & IT Academy",
+  "description": "Professional private tutoring portal for Cambridge, Karachi Board, Federal Board, and AKU-EB with fee calculators and specialized course booking forms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
